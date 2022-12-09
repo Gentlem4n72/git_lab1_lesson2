@@ -1,1 +1,9 @@
 В файл README не внесено описание изменений
+
+1) init
+2) heat added
+3) boots
+4) Merge branch 'boots' into release
+5) README added
+6) dots
+7) Merge branch 'buttons' into demo
